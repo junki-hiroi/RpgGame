@@ -1,0 +1,9 @@
+.idea/*
+_ReSharper.Caches*
+*.csproj
+Library/*
+obj/*
+Temp/*
+*.sln
+*.suo
+Assets/Plugins/Editor/JetBrains/Unity3DRider.cs
